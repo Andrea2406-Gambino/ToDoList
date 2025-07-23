@@ -1,0 +1,24 @@
+# Cartelle di build di CLion (generata da CMake)
+cmake-build-*/
+# File e cartelle di configurazione di CLion
+.idea/
+*.iml
+# File generati da CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+# File compilati (binari, oggetti, librerie)
+*.o
+*.obj
+*.out
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+# File di log
+*.log
+# File specifici del sistema operativo (macOS, Windows)
+.DS_Store
+Thumbs.db
